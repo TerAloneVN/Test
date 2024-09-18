@@ -1,0 +1,16 @@
+[05:04:12.531 main/INFO] Loading extensions...
+[05:04:12.548 main/INFO] Loaded 0 extension(s)
+[05:04:12.819 main/INFO] ******************************************
+[05:04:12.820 main/INFO] 
+[05:04:12.820 main/INFO] Loading Geyser version 2.4.2-b674 (git-master-a5e45ad)
+[05:04:12.820 main/INFO] 
+[05:04:12.821 main/INFO] ******************************************
+[05:04:19.771 epollEventLoopGroup-3-1/INFO] Started Geyser on UDP port 19132
+[05:04:19.784 main/INFO] Done (6.964s)! Run /geyser help for help!
+[05:04:19.784 main/WARN] Geyser doesn't translate Bedrock movements perfectly! Using Geyser in servers that have an anticheat could get you banned.
+[05:04:20.311 Thread-2/INFO] There's a new Geyser update available to support Bedrock version 1.21.30. Download it here: https://geysermc.org/download
+[05:04:20.455 Thread-0/WARN] Missing MC locale file: en_us
+[05:04:20.461 Thread-3/INFO] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
+[05:04:22.828 Thread-3/INFO] Minecraft JAR has been successfully downloaded and loaded!
+[05:05:14.621 Geyser Scheduled Thread-1-1/INFO] Shutting down Geyser.
+[05:05:14.731 Geyser Scheduled Thread-1-1/INFO] Geyser shutdown successfully.
